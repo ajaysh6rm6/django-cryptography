@@ -12,7 +12,7 @@ b'ug-w6XwdUA-6ad_xZ4hxGSj7tP74GKpHAhN5YIHMyKU='
 
 
 STEP3==>> add it into setting.py :
-ENCRYPT_KEY = b'ug-w6XwdUA-6ad_xZ4hxGSj7tP74GKpHAhN4YIHMyKU='
+ENCRYPT_KEY = b'ug-w6XwdUA-6ad_xZ4hxGSj7tP74GKpHAhN5YIHMyKU='
 
 
 STEP4==>> create encryption_util.py
