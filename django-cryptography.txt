@@ -8,7 +8,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 (InteractiveConsole)
 >>> from cryptography.fernet import Fernet
 >>> Fernet.generate_key()
-b'ug-w6XwdUA-6ad_xZ4hxGSj7tP74GKpHAhN4YIHMyKU='
+b'ug-w6XwdUA-6ad_xZ4hxGSj7tP74GKpHAhN5YIHMyKU='
 
 
 STEP3==>> add it into setting.py :
